@@ -1,2 +1,2 @@
-# ML-Project
-My First Machine Learning Project
+# ML_Project
+First machine learning project.
